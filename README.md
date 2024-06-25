@@ -1,0 +1,3 @@
+En este proyecto se han probado 6 modelos de regresión para identificar aquel con el RECM (raíz del error cuadrático medio) más bajo. Los datos de entrenamiento pertenecen a las ventas de un negocio en la insutria de retail de 6 meses desde Octubre de 2023 a Marzo de 2024.
+Se ha llevado a cabo el preprocesamiento de datos correspondiente, el análisis exploratorio de las vents por región incluyendo un pareto de los productos más vendidos por territorio y por cuenta. Finalmente el modelo Light Gradient-Boosting Machine ha sido aquel con mejor
+desempeño así  también con el error más bajo como se demuestra en las gráficas de error residual de regresión y el histograma de predicción de errores.
